@@ -1,8 +1,8 @@
-<div align="center">
+﻿<div align="center">
 
-# 🔬 BRIN Web Portal — National Research & Innovation Agency
+# BRIN Web Portal â€” National Research and Innovation Agency
 
-### *Modernized Research Ecosystem with 12 Research Organizations & Open Laboratory Catalog*
+### *Modernized Research Ecosystem with 12 Research Organizations and Open Laboratory Catalog*
 
 ![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -14,50 +14,44 @@
 
 </div>
 
-## 📌 About BRIN Portal
+## About BRIN Portal
 
-A modernized institutional web portal for the **Badan Riset dan Inovasi Nasional (BRIN)**. Built with Next.js 14 App Router, TypeScript, and Tailwind CSS to unify 12 Research Organizations (Organisasi Riset), 85 Research Centers (Pusat Riset), the ELSA open laboratory catalog, and RIIM funding schemes under a cohesive, high-performance platform.
-
----
-
-## ✨ Key Modules & Features
-
-- **🏛️ 12 Research Organizations Directory**: Complete profile, scientific fields, and patent achievements across aerospace, nuclear, health, biodiversity, energy, and humanities.
-- **🔬 ELSA Laboratory Instrument Catalog**: Searchable index of 380+ scientific equipment across Indonesian facilities with booking request workflows.
-- **💰 RIIM Research Funding Hub**: Grant schemes, submission criteria, proposal reviewer guidelines, and funding calendars.
-- **⚡ 100% SSG Performance**: Sub-second page loads with Static Site Generation and client-side hydration.
+A modernized institutional web portal for the Badan Riset dan Inovasi Nasional (BRIN). Built with Next.js 14 App Router, TypeScript, and Tailwind CSS to unify 12 Research Organizations (Organisasi Riset), 85 Research Centers (Pusat Riset), the ELSA open laboratory catalog, and RIIM funding schemes under a cohesive, high-performance platform.
 
 ---
 
-## 🛠️ Technology Stack
+## Key Modules and Features
 
-- **Framework**: Next.js 14 (App Router)
-- **Library**: React 18
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS
-- **Icons**: Lucide-React & FontAwesome 6
+- 12 Research Organizations Directory: Complete profile, scientific fields, and patent achievements across aerospace, nuclear, health, biodiversity, energy, and humanities.
+- ELSA Laboratory Instrument Catalog: Searchable index of 380+ scientific equipment across Indonesian facilities with booking request workflows.
+- RIIM Research Funding Hub: Grant schemes, submission criteria, proposal reviewer guidelines, and funding calendars.
+- 100% SSG Performance: Sub-second page loads with Static Site Generation and client-side hydration.
 
 ---
 
-## 🚀 Getting Started
+## Technology Stack
 
-```bash
-# Clone the repository
+- Framework: Next.js 14 (App Router)
+- Library: React 18
+- Language: TypeScript
+- Styling: Tailwind CSS
+- Icons: Lucide-React and FontAwesome 6
+
+---
+
+## Getting Started
+
+`ash
 git clone https://github.com/raphlv/brin-portal-next.git
 cd brin-portal-next
-
-# Install dependencies
 npm install
-
-# Run development server
 npm run dev
-```
+`
 
 ---
 
-## 👨‍💻 Developer & Maintainer
+## Developer and Maintainer
+Pangeran Ryan Pahlevi â€” https://pangeranryan.vercel.app
 
-**Pangeran Ryan Pahlevi**  
-- Portfolio: [https://pangeranryan.vercel.app](https://pangeranryan.vercel.app)  
-- GitHub: [@raphlv](https://github.com/raphlv)  
-- Email: pangeranryan080504@gmail.com  
+<!-- Last verified: 2026-09-01 13:10:43 by Pangeran Ryan Pahlevi -->
+
