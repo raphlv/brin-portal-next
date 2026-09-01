@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
 
-# BRIN Web Portal â€” National Research and Innovation Agency
+# BRIN Web Portal - National Research and Innovation Agency
 
 ### *Modernized Research Ecosystem with 12 Research Organizations and Open Laboratory Catalog*
 
@@ -41,7 +41,7 @@ A modernized institutional web portal for the Badan Riset dan Inovasi Nasional (
 
 ## Getting Started
 
-`ash
+`ash
 git clone https://github.com/raphlv/brin-portal-next.git
 cd brin-portal-next
 npm install
@@ -51,7 +51,4 @@ npm run dev
 ---
 
 ## Developer and Maintainer
-Pangeran Ryan Pahlevi â€” https://pangeranryan.vercel.app
-
-<!-- Last verified: 2026-09-01 13:10:43 by Pangeran Ryan Pahlevi -->
-
+Pangeran Ryan Pahlevi - https://pangeranryan.vercel.app
